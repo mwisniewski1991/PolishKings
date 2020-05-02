@@ -4,7 +4,7 @@
 Scrap data regarding Polish Kings/Lords, when their live and rule.\
 Make charts to visualize gathered data.
 
-Link to visualization: https://observablehq.com/d/28a48bd1190541e0
+Link to visualization: https://observablehq.com/@mwdataweb/polish-kings
 
 ## Stack
 - Python
